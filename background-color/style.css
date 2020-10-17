@@ -1,0 +1,38 @@
+  .txt {
+      font-family: "Roboto", sans-serif;
+      width: 417px;
+      box-sizing: border-box;
+      background-color: #212744;
+      padding: 20px;
+      margin-top: -15px;
+      line-height: 15px;
+  }
+  
+  h2 {
+      color: #EBEEFD;
+  }
+  
+  p {
+      color: #B8C2CC;
+      font-size: 14px;
+  }
+  
+  .btn {
+      border-radius: 6px;
+      width: 150px;
+      height: 40px;
+      outline: none;
+  }
+  
+  .btn-1 {
+      border: none;
+      color: rgba(255, 255, 255, 1);
+      background: linear-gradient(90deg, #8471F2 32.98%, rgba(193, 151, 250, 0.89) 100%);
+  }
+  
+  .btn-2 {
+      background-color: #212744;
+      border: 1px solid #B8C2CC;
+      color: #B8C2CC;
+      margin-left: 72px;
+  }
