@@ -1,11 +1,18 @@
+  .container {
+      width: 417px;
+      background-color: #212744;
+  }
+  
   .txt {
       font-family: "Roboto", sans-serif;
-      width: 417px;
       box-sizing: border-box;
-      background-color: #212744;
       padding: 20px;
-      margin-top: -15px;
       line-height: 15px;
+  }
+  
+  img {
+      vertical-align: bottom;
+      width: 100%;
   }
   
   h2 {
