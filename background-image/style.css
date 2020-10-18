@@ -1,0 +1,13 @@
+.container {
+    background-image: url(./image\ 11.svg);
+    background-size: cover;
+    width: 30%;
+    height: 485px;
+    background-repeat: no-repeat;
+    padding: 16px;
+    color: rgba(255, 255, 255, 1);
+    font-family: 'Roboto', sans-serif;
+    line-height: 30px;
+}
+
+p {}
