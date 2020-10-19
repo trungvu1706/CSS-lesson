@@ -1,0 +1,43 @@
+.container {
+    font-family: "Roboto", sans-serif;
+    background: #10163A;
+    padding: 20px;
+    line-height: 16px;
+    border-radius: 8px;
+    width: 60%;
+}
+
+.container h1 {
+    color: rgba(103, 94, 218, 1);
+    font-size: 24px;
+}
+
+.container p {
+    color: rgba(194, 198, 220, 1);
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.container a {
+    color: rgba(40, 184, 107, 1);
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.container a:link {
+    color: rgba(40, 184, 107, 1);
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+}
+
+.container a:hover {
+    text-decoration: underline;
+}
+
+.container a:visited {
+    color: rgba(40, 184, 107, 1);
+}
+
+.container a:active {
+    color: rgb(57 117 79 / 95%);
+}
