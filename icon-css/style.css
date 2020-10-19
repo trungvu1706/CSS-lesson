@@ -1,0 +1,40 @@
+.container {
+    background-color: rgba(16, 22, 58, 1);
+    width: 25%;
+    /* height: 80%; */
+    padding: 16px;
+    border-radius: 8px;
+    line-height: 14px;
+}
+
+.container img {
+    width: 60%;
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container h2 {
+    color: rgba(194, 198, 220, 1);
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+}
+
+.container p {
+    color: rgba(194, 198, 220, 1);
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-weight: 300;
+}
+
+.icon-star {
+    margin-top: 30px;
+    padding-left: 70px;
+}
+
+.footer p {
+    color: rgba(115, 103, 240, 1);
+    text-align: center;
+    font-size: 25px;
+}
