@@ -1,0 +1,32 @@
+.container {
+    font-family: 'Roboto', sans-serif;
+    padding: 15px;
+    background: #212744;
+    width: 50%;
+    border-radius: 8px;
+    color: rgba(194, 198, 220, 1);
+}
+
+.container hr {
+    border: 1px solid #39405F;
+}
+
+.container h1 {
+    font-weight: 700;
+}
+
+.container table {
+    font-weight: 700;
+    /* margin-left: 10px; */
+}
+
+.container th {
+    font-size: 12px;
+    padding: 14px;
+}
+
+.container td {
+    font-size: 10px;
+    text-align: center;
+    padding: 10px;
+}
