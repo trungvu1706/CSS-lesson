@@ -1,0 +1,28 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.container {
+    padding: 16px;
+    background: rgba(33, 39, 68, 1);
+    width: 20%;
+    border-radius: 8px;
+}
+
+.header {
+    padding-left: 8px;
+    color: rgba(194, 198, 220, 1);
+}
+
+.list {
+    color: rgba(194, 198, 220, 1);
+    list-style-type: none;
+    line-height: 30px;
+    cursor: pointer;
+}
+
+.list li:hover {
+    background-color: rgba(115, 103, 240, 1);
+    border-radius: 4px;
+    padding-left: 8px;
+}
