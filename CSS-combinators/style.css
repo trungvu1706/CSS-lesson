@@ -1,0 +1,25 @@
+.list-2 .item-2 {
+    color: red;
+}
+
+.list-1>.item {
+    border: 1px solid #333;
+}
+
+.list-2 .item-1+.item {
+    border: 1px solid #333;
+}
+
+.list-2 .item-1~.item {
+    color: red;
+    border: 1px solid #333;
+}
+
+.list-1>.item {
+    color: green;
+    border: 1px solid #333;
+}
+
+.blue {
+    color: blue;
+}
