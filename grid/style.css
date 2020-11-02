@@ -1,0 +1,43 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* @media (max-width: 500px) {
+    // tren thiet bi di dong thi class grid có thuoc tinh css la gi
+    .wrapper {
+        display: grid;
+        grid-template-columns: 2fr 2fr 2fr;
+        grid-row-gap: 10px;
+    }
+
+
+    // tren thiet bi di dong thi class grid co thuoc tinh css la gi
+    .grid {}
+
+    //dinh nghia het trong media nay
+} */
+
+.wrapper {
+    width: 350px;
+    padding: 20px;
+    background-color: #10163A;
+    border-radius: 8px;
+}
+
+.wrapper .header {
+    color: #EBEEFD;
+    margin-bottom: 10px;
+}
+
+.wrapper .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
+
+.grid img {
+    justify-self: center;
+    width: 100%;
+}
